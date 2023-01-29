@@ -11,3 +11,8 @@ The game is meant to be displayed on a VGA monitor.
 The chess game is controlled by a mouse, with a simple sidebar interface to display game information and controls.
 
 The game logic is all done in the C software files, whereas the sprite drawing logic on the VGA monitor is handled by HDL. Some more detailed explanation of the architectural design and a high level block diagram can be found in the Report PDF in one of the directories.
+
+In Fall 2022, this solo project got me:
+Difficulty points : 8 (out of 10)
+Completion        : Full marks (I forgot it was 10 or 20)
+Report            : Full marks (I forgot too)
